@@ -150,16 +150,29 @@ philosophy: "用技术革新传统物流，让每一次搬运都更智能高效"
 ## 📊 Activity Dashboard
 
 <div align="center">
-  <img height="155" src="https://streak-stats.demolab.com?user=LiuFan-libiao&theme=github-dark-blue&hide_border=true&background=0D1117&ring=36BCF7&fire=0e75b6&currStreakLabel=36BCF7&sideNums=ffffff&currStreakNum=ffffff&dates=9aa4b2&sideLabels=ffffff" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=LiuFan-libiao&theme=github-dark-blue&hide_border=true&background=0D1117&ring=36BCF7&fire=0e75b6&currStreakLabel=36BCF7&sideNums=ffffff&currStreakNum=ffffff&dates=9aa4b2&sideLabels=ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=LiuFan-libiao&theme=default&hide_border=true" />
+    <img height="155" src="https://streak-stats.demolab.com?user=LiuFan-libiao&theme=default&hide_border=true" />
+  </picture>
 </div>
 
 <div align="center">
-  <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=LiuFan-libiao&bg_color=0d1117&color=36BCF7&line=0e75b6&point=ffffff&area=true&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LiuFan-libiao&bg_color=0d1117&color=36BCF7&line=0e75b6&point=ffffff&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LiuFan-libiao&theme=github-light&hide_border=true&area=true" />
+    <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=LiuFan-libiao&theme=github-light&hide_border=true&area=true" />
+  </picture>
 </div>
 
 <div align="center">
-  <img width="88%" src="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/profile-3d-contrib/profile-green.svg" />
+    <img width="88%" src="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/profile-3d-contrib/profile-green.svg" />
+  </picture>
 </div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -170,7 +183,11 @@ philosophy: "用技术革新传统物流，让每一次搬运都更智能高效"
 </div>
 
 <div align="center">
-  <img width="88%" src="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/github-contribution-grid-snake.svg" />
+    <img width="88%" src="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 ---
 
