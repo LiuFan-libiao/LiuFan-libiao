@@ -39,16 +39,46 @@ philosophy: "用技术革新传统物流，让每一次搬运都更智能高效"
 
 ## 🐳 Domain & Projects
 
-<p align="center"><i>专注物流机器人与智能仓储系统，同时参与自动化与面试知识开源项目</i></p>
+<p align="center"><i>专注物流机器人、智能仓储与自动化系统集成，持续打磨从调度到落地的完整解决方案</i></p>
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>现在在做什么</h3>
+      <p>
+        我目前主要围绕物流机器人、智能仓储系统和自动化设备集成这几个方向持续投入。
+        相比只做单一模块开发，我更关注从业务流程、系统调度到设备落地的整体协同，
+        让软件系统真正与 AGV、WMS、PLC、分拣设备形成稳定高效的闭环。
+      </p>
+      <p>
+        当前重点包括：AGV 集群调度与路径规划优化、仓储业务流程数字化、WMS 与现场自动化设备对接，
+        以及基于 C# .NET / WPF 构建更易维护、更高可用的工业应用系统。
+      </p>
+    </td>
+    <td width="42%" valign="top">
+      <h3>关键词</h3>
+      <p>
+        <img src="https://img.shields.io/badge/AGV%20Dispatch-0e75b6?style=flat-square" />
+        <img src="https://img.shields.io/badge/WMS%20Integration-3F51B5?style=flat-square" />
+        <img src="https://img.shields.io/badge/Path%20Planning-36BCF7?style=flat-square" />
+        <img src="https://img.shields.io/badge/PLC%20Control-607D8B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Sorting%20System-795548?style=flat-square" />
+        <img src="https://img.shields.io/badge/System%20Integration-4CAF50?style=flat-square" />
+      </p>
+      <h3>常用技术</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,docker,git,mysql,windows" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-<!-- 领域类项目标签（示例） -->
 [![智能仓储系统](https://img.shields.io/badge/Domain-%E6%99%BA%E8%83%BD%E4%BB%93%E5%82%A8%E7%B3%BB%E7%BB%9F-0e75b6?style=flat-square)](#)
 [![AGV机器人集群](https://img.shields.io/badge/Domain-AGV%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9B%86%E7%BE%A4-36BCF7?style=flat-square)](#)
 [![智能分拣系统](https://img.shields.io/badge/Domain-%E6%99%BA%E8%83%BD%E5%88%86%E6%8B%A3%E7%B3%BB%E7%BB%9F-ff6b6b?style=flat-square)](#)
 
-<!-- 你的开源项目 -->
 [![daily-interview](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/daily-interview&style=horizontal)](https://github.com/datawhalechina/daily-interview)
 [![self-n8n](https://svg.bookmark.style/api?url=https://github.com/Bald0Wang/self-n8n&style=horizontal)](https://github.com/Bald0Wang/self-n8n)
 
@@ -127,10 +157,22 @@ philosophy: "用技术革新传统物流，让每一次搬运都更智能高效"
   <img src="https://github-profile-trophy.vercel.app/?username=LiuFan-libiao&theme=discord&no-frame=true&column=7&margin-w=10" />
 </div>
 
-## 📊 Activity
+## 📊 Activity Dashboard
+
+<div align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=LiuFan-libiao&theme=github-dark-blue&hide_border=true&background=0D1117&ring=36BCF7&fire=0e75b6&currStreakLabel=36BCF7" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LiuFan-libiao&bg_color=0d1117&color=36BCF7&line=0e75b6&point=ffffff&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
