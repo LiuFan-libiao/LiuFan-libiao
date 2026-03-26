@@ -154,15 +154,23 @@ philosophy: "用技术革新传统物流，让每一次搬运都更智能高效"
 </div>
 
 <div align="center">
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=LiuFan-libiao&bg_color=0d1117&color=36BCF7&line=0e75b6&point=ffffff&area=true&hide_border=true" />
+  <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=LiuFan-libiao&bg_color=0d1117&color=36BCF7&line=0e75b6&point=ffffff&area=true&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="85%" src="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/profile-3d-contrib/profile-night-view.svg" />
+  <img width="88%" src="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </div>
 
 <div align="center">
-  <img width="85%" src="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/github-contribution-grid-snake-dark.svg" />
+  <img width="88%" src="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/github-contribution-grid-snake-dark.svg" />
 </div>
 ---
 
