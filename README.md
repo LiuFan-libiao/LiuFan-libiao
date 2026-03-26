@@ -121,19 +121,19 @@ philosophy: "用技术革新传统物流，让每一次搬运都更智能高效"
 ## 📊 Activity Dashboard
 
 <div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=LiuFan-libiao&theme=github-dark-blue&hide_border=true&background=0D1117&ring=36BCF7&fire=0e75b6&currStreakLabel=36BCF7&sideNums=ffffff&currStreakNum=ffffff&dates=9aa4b2&sideLabels=ffffff" />
+  <img height="155" src="https://streak-stats.demolab.com?user=LiuFan-libiao&theme=github-dark-blue&hide_border=true&background=0D1117&ring=36BCF7&fire=0e75b6&currStreakLabel=36BCF7&sideNums=ffffff&currStreakNum=ffffff&dates=9aa4b2&sideLabels=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LiuFan-libiao&bg_color=0d1117&color=36BCF7&line=0e75b6&point=ffffff&area=true&hide_border=true" />
+  <img width="78%" src="https://github-readme-activity-graph.vercel.app/graph?username=LiuFan-libiao&bg_color=0d1117&color=36BCF7&line=0e75b6&point=ffffff&area=true&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img width="78%" src="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/github-contribution-grid-snake-dark.svg" />
+  <img width="78%" src="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/github-contribution-grid-snake-dark.svg" />
 </div>
 ---
 
