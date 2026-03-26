@@ -115,17 +115,13 @@ philosophy: "用技术革新传统物流，让每一次搬运都更智能高效"
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=LiuFan-libiao&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&rank_icon=github" />
-</div>
-
-<div align="center">
-  <img height="155" src="https://streak-stats.demolab.com?user=LiuFan-libiao&theme=github-dark-blue&hide_border=true&background=0D1117&ring=36BCF7&fire=0e75b6&currStreakLabel=36BCF7&sideNums=ffffff&currStreakNum=ffffff&dates=9aa4b2&sideLabels=ffffff" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LiuFan-libiao&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&rank_icon=github" />
 </div>
 
 ## 📊 Activity Dashboard
 
 <div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=LiuFan-libiao&theme=github-dark-blue&hide_border=true&background=0D1117&ring=36BCF7&fire=0e75b6&currStreakLabel=36BCF7" />
+  <img height="160" src="https://streak-stats.demolab.com?user=LiuFan-libiao&theme=github-dark-blue&hide_border=true&background=0D1117&ring=36BCF7&fire=0e75b6&currStreakLabel=36BCF7&sideNums=ffffff&currStreakNum=ffffff&dates=9aa4b2&sideLabels=ffffff" />
 </div>
 
 <div align="center">
