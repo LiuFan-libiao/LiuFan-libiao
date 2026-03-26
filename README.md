@@ -54,13 +54,42 @@ philosophy: "用技术革新传统物流，让每一次搬运都更智能高效"
 
 </div>
 
-| Project                          | Description                                              | Role        |
-| :------------------------------- | :------------------------------------------------------- | :---------- |
-| **智能仓储系统**                 | 全自动化仓库管理平台，打通入库到出库全流程               | Developer   |
-| **AGV机器人集群**               | 多AGV协同作业系统，实现高效安全调度                     | Developer   |
-| **智能分拣系统**                 | 高速自动分拣方案，适配多种业务场景                      | Developer   |
-| **daily-interview**             | Datawhale 出品的日常技术面试题库，涵盖多领域基础与实战 | Contributor |
-| **self-n8n**                    | 基于 n8n 的自动化工作流实践，用可视化方式编排自动化任务 | Contributor |
+<div align="center">
+
+<table width="80%">
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+    <th align="left">Role</th>
+  </tr>
+  <tr>
+    <td><b>智能仓储系统</b></td>
+    <td>全自动化仓库管理平台，打通入库到出库全流程</td>
+    <td>Developer</td>
+  </tr>
+  <tr>
+    <td><b>AGV机器人集群</b></td>
+    <td>多AGV协同作业系统，实现高效安全调度</td>
+    <td>Developer</td>
+  </tr>
+  <tr>
+    <td><b>智能分拣系统</b></td>
+    <td>高速自动分拣方案，适配多种业务场景</td>
+    <td>Developer</td>
+  </tr>
+  <tr>
+    <td><b>daily-interview</b></td>
+    <td>Datawhale 出品的日常技术面试题库，涵盖多领域基础与实战</td>
+    <td>Contributor</td>
+  </tr>
+  <tr>
+    <td><b>self-n8n</b></td>
+    <td>基于 n8n 的自动化工作流实践，用可视化方式编排自动化任务</td>
+    <td>Contributor</td>
+  </tr>
+</table>
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -125,15 +154,15 @@ philosophy: "用技术革新传统物流，让每一次搬运都更智能高效"
 </div>
 
 <div align="center">
-  <img width="78%" src="https://github-readme-activity-graph.vercel.app/graph?username=LiuFan-libiao&bg_color=0d1117&color=36BCF7&line=0e75b6&point=ffffff&area=true&hide_border=true" />
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=LiuFan-libiao&bg_color=0d1117&color=36BCF7&line=0e75b6&point=ffffff&area=true&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="78%" src="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img width="85%" src="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/profile-3d-contrib/profile-night-view.svg" />
 </div>
 
 <div align="center">
-  <img width="78%" src="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/github-contribution-grid-snake-dark.svg" />
+  <img width="85%" src="https://raw.githubusercontent.com/LiuFan-libiao/LiuFan-libiao/output/github-contribution-grid-snake-dark.svg" />
 </div>
 ---
 
