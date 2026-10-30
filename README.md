@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=180&section=header&text=刘凡&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Logistics%20Robotics%20Engineer&descSize=18&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=180&section=header&text=FN&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Logistics%20Robotics%20Engineer&descSize=18&descAlignY=55" />
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ## 👋 About Me
 
 ```yaml
-name: 刘凡
+name: FN
 role: Logistics Robotics Engineer
 organization: Intelligent Warehouse & AGV Systems
 education: Automation / Robotics related background
